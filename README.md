@@ -2,7 +2,7 @@
 A Minecraft resource pack to remove the portal sounds from 1.6.1+
 
 ## Downloads
-[![Modrinth Download](images/Modrinth.png)](https://modrinth.com/resourcepack/silent-portals) ![CurseForge Download](images/CurseForge.png) [![Github Releases Download](images/Releases.png)](https://github.com/TheCodingCarson/SilentPortals/releases)
+[![Modrinth Download](images/Modrinth.png)](https://modrinth.com/resourcepack/silent-portals) [![CurseForge Download](images/CurseForge.png)](https://www.curseforge.com/minecraft/texture-packs/silent-portals) [![Github Releases Download](images/Releases.png)](https://github.com/TheCodingCarson/SilentPortals/releases)
 
 ## 1.6.1+ Compatibility
 ![Silent Portals](images/Silent-Portals.jpg)
